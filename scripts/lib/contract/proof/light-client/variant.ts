@@ -1,0 +1,1 @@
+export const LIGHT_CLIENT_PROOF_VARIANT = 0n;

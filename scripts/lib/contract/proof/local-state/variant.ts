@@ -1,0 +1,1 @@
+export const LOCAL_STATE_PROOF_VARIANT = 3n;

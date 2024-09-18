@@ -1,0 +1,1 @@
+export const CONTROL_CONFIRM_PROOF_VARIANT = 5n;
