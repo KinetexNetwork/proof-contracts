@@ -43,6 +43,7 @@ const config: HardhatUserConfig = {
       'contracts/proof/event-bridge/transport/zeta-chain/ZetaChainEventSender.sol',
       'contracts/proof/local-state/LocalStateProofVerifier.sol',
       'contracts/proof/control-confirm/ControlConfirmProofVerifier.sol',
+      'contracts/proof/signature/SignatureProofVerifier.sol',
       'contracts/proof/bitcoin/BitcoinProofVerifier.sol',
       'contracts/proof/light-client/LightClientProofVerifier.sol',
     ],
